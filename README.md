@@ -2,7 +2,16 @@
 
 Use this on https://excalidraw.com/
 
+```bash
+git clone git@github.com:wcygan/excalidraw-system-design-template.git
+open https://excalidraw.com/
+```
+
+Then, on Excalidraw, do "Open → src/template.excalidraw"
+
 ## Libraries
+
+Add these libraries by opening these URLs in new tabs:
 
 - https://excalidraw.com/#addLibrary=https%3A%2F%2Flibraries.excalidraw.com%2Flibraries%2Frohanp%2Fsystem-design.excalidrawlib&token=HqeLsoxd84rC4CCQtr_Vu
 - https://excalidraw.com/#addLibrary=https%3A%2F%2Flibraries.excalidraw.com%2Flibraries%2Fyouritjang%2Fsoftware-architecture.excalidrawlib&token=HqeLsoxd84rC4CCQtr_Vu
