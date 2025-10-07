@@ -1,5 +1,7 @@
 # System Design Template
 
+<img src="example.jpg" width="700">
+
 Use this on https://excalidraw.com/
 
 ```bash
